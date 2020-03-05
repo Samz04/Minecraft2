@@ -612,3 +612,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.05-17.54.11:905][240]LogSlate: Window 'Plugins' being destroyed
 [2020.03.05-17.54.11:908][240]LogSlate: Window 'Plugins' being destroyed
 [2020.03.05-17.54.11:908][240]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2020.03.05-17.57.22:107][525]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube11)
